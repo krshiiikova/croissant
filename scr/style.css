@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+a {
+  color: blueviolet;
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: blueviolet;
+}
+img {
+  max-width: 400px;
+}
